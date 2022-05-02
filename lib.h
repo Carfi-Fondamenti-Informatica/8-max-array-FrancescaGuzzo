@@ -1,1 +1,1 @@
-double Array (float, int);
+float Array (float, int);
