@@ -11,7 +11,7 @@ int main(){
         cin >> numeri[i];
     }
 
-    double r = Array(numeri, dimensione);
+    float r = Array(numeri, dimensione);
     cout << r << endl;
   return 0;
 }
